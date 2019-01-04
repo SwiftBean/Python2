@@ -1,0 +1,59 @@
+while True:
+##   try: 
+##      num = float(input("Enter a number: "))
+##   except:
+##      print("Something went wrong")
+##   try:
+##      print(num)
+##   except:
+##      print("Nothing to print")
+
+##print(num)
+
+try:
+  num = float(input("\nEnter a number: "))
+except ValueError:
+   print("That was not a number")
+except NameError:
+   print("name error")
+else:
+   print("You entered the number", num)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
