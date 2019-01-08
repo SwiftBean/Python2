@@ -1,9 +1,81 @@
-title
-category
-question
-answer1
-answer2
-answer3
-answer4
+The Python Trivia
+1. Pickling
+What does the pickle function do in Python?
+It shows up as a fake module 
+Absolutely nothing
+It convers an object hierarchy to denary format
+It serializes and de-serializes a Python object structure
 4
-explanation
+Pickling serializes and de-serializes Python object stuctures. Pickling is a way to convert a python object(lis, dict, etc.) into a character stream.
+2. .append()
+What does the append function do?
+It updates a list by adding an object to the list
+It deletes an object from a list
+It's not a real function
+It overwrites an object already in a list
+1
+The append function updates a list by adding an object to said list. It's not to be confused with the extend function, which is used to merge two lists or insert multiple elements. 
+3. Showing output
+What function is used to display output to a user?
+Print
+Input
+Show 
+Read
+1
+The print function is used to show output from a user. So if you said something like print("Hello"), you would get output saying hello.
+4. Input
+What does the input function do in python?
+It allows people to write letters and numbers and other things on a keyboard to a list or something similar
+It shows output to a user
+It does nothing
+It breaks a program because it's not a real function
+1
+The input function allows you to write things into a list or something similar. 
+5. Loops
+What does the while function do?
+It isn't a real function
+It loops indefinitely until something stops it
+It stops after a certain point
+It allows you to write in something
+2
+The while function is a loop that runs indefinitely until it hits a certain point that you have to write in. 
+6. Loops
+What does the for function do? 
+It doesn't do anything as it isn't real
+It loops something indefinitely 
+It loops as long as the thing its looping on is true
+It closes a file3
+3
+The for loop loops something as long as that something is considered true, unless told otherwise by using False.
+7. Time
+What does the .sleep function do when paired with the module time?
+It delays output for a set amount of seconds of your choosing
+It allows you to write input into a program
+It doesn't do anything
+If it runs, it says that the time module doesn't exist
+1
+The time.sleep() funtion allows you to delay output for a certain amount of time in seconds. So if you wrote time.sleep(5), you would delay the output of a program for 5 seconds.
+8. Loops
+What function can you use to stop a while loop?
+Break
+Stop
+Quit
+Return
+1
+The break function can stop an infinite loop.
+9. Loops
+What can be used to start an infinite loop?
+While
+For
+Lists
+Else
+1
+While will repeat a code indefinitely unless told to stop at a certain point or stopped using break.
+10. Output
+Which function would I use to display the message, "Hello World"?
+Len
+Float
+Input
+Print
+4
+The print function is used to display output such as the message "Hello World".
